@@ -43,7 +43,7 @@ async def on_ready():
 async def on_message(message):
     if message.content == f"{前輟}help":
         await message.delete()
-        embed = discord.Embed(title="指令", description="全部指令只限於群組管理員使用", color=0x04f108)
+        embed = discord.Embed(title="指令", description="***全部指令只限於群組管理員使用***\n 你也可以連別人的群組 , 只需要對方給你跨群連結代碼就好\n就很像Connections Bot\n官方的跨群連結代碼 : `dGrJC`\n開發者Discord :\n[天然呆幻月#1314](https://top.gg/user/212975187460038656)\n官方Discord群組 :\n https://discord.gg/3S5BgMTx47", color=0x04f108)
         embed.add_field(name=f"{前輟}help", value="指令功能查詢")
         embed.add_field(name=f"{前輟}new", value="創建一個跨群連結代碼")
         embed.add_field(name=f"{前輟}start", value=f"{前輟}start `webhook網址` `跨群連結代碼`")
