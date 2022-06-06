@@ -1,0 +1,38 @@
+1.修改config.json的資料 :
+owner_id
+prefix
+token
+    
+owner_id填你的id
+    
+prefix填你的前綴
+    
+token就填token
+    
+
+2. pip install discord
+
+3. pip install random
+
+4. pip install requests
+
+5. python bot.py
+
+6. done!
+
+
+☆○o｡..:･注意･:..｡o○☆
+
+Tira-tw開發者已獲得源代碼作者修改 | 發布許可
+請勿修改 | 公開
+
+源代碼作者 : 
+https://github.com/HansHans135
+
+源代碼 : 
+https://github.com/HansHans135/across_guild
+
+Tira-tw開發者 : 
+https://github.com/Tira-tw
+
+☆○o｡..:･注意･:..｡o○☆
